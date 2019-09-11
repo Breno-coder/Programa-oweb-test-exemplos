@@ -1,0 +1,36 @@
+#fin{font-size: 80px;}
+.tocor{color: green;}
+.cortexto{
+	color: blue;
+	text-align: center;
+}
+.titulo{
+	font-size: 3rem;
+	color: #333;
+	text-align: center;
+}
+
+.font-grande{
+	font-size: 40px;
+}
+
+.sublinhado{
+	text-decoration: underline;
+}
+
+.fundo{
+	background: gray;
+}
+
+#botao-bonito{
+	color: white;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 35px;
+	padding-left: 35px;
+	background-color: green;
+}
+
+.hq{
+	background-image: url("../imagen/urbanart.jpg");
+}
